@@ -1,0 +1,217 @@
+[
+  {
+    "_id": 0,
+    "name": "Giới hạn tốc độ",
+    "description": "Không quá 20km/h"
+  },
+  {
+    "_id": 1,
+    "name": "Giới hạn tốc độ",
+    "description": "Không quá 30km/h"
+  },
+  {
+    "_id": 2,
+    "name": "Giới hạn tốc độ",
+    "description": "Không quá 50km/h"
+  },
+  {
+    "_id": 3,
+    "name": "Giới hạn tốc độ",
+    "description": "Không quá 60km/h"
+  },
+  {
+    "_id": 4,
+    "name": "Giới hạn tốc độ",
+    "description": "Không quá 70km/h"
+  },
+  {
+    "_id": 5,
+    "name": "Giới hạn tốc độ",
+    "description": "Không quá 80km/h"
+  },
+  {
+    "_id": 6,
+    "name": "Cho phép tốc độ",
+    "description": "Vượt quá 80km/h"
+  },
+  {
+    "_id": 7,
+    "name": "Giới hạn tốc độ",
+    "description": "Không quá 100km/h"
+  },
+  {
+    "_id": 8,
+    "name": "Giới hạn tốc độ",
+    "description": "Không quá 100km/h"
+  },
+  {
+    "_id": 9,
+    "name": "Cấm vượt",
+    "description": "Đối với xe ô tô"
+  },
+  {
+    "_id": 10,
+    "name": "Cấm vượt",
+    "description": "Đối với xe tải lớn"
+  },
+  {
+    "_id": 11,
+    "name": "Giao nhau với đường không ưu tiên",
+    "description": "Bạn không cần phải nhường đường cho xe khác"
+  },
+  {
+    "_id": 12,
+    "name": "Đường ưu tiên",
+    "description": "Đường ưu tiên"
+  },
+  {
+    "_id": 13,
+    "name": "Giao nhau với đường ưu tiên",
+    "description": "Bạn cần phải nhường đường cho xe khác"
+  },
+  {
+    "_id": 14,
+    "name": "Dừng lại",
+    "description": "Yêu cầu dừng xe tại nơi có biển báo này"
+  },
+  {
+    "_id": 15,
+    "name": "Cấm tất cả các phương tiện giao thông",
+    "description": "Mọi phương tiện giao thông không được phép đi vào nơi có biển báo này"
+  },
+  {
+    "_id": 16,
+    "name": "Cấm xe tải trên 3.5 tấn",
+    "description": "Xe tải hoặc xe chở hàng có trọng lượng vượt quá 3.5 tấn không được đi vào nơi có biển báo này"
+  },
+  {
+    "_id": 17,
+    "name": "Cấm đi vào",
+    "description": "Cấm đi vào nơi đặt biển báo này"
+  },
+  {
+    "_id": 18,
+    "name": "Cảnh báo nguy hiểm",
+    "description": "Cảnh báo có nguy hiểm phía trước"
+  },
+  {
+    "_id": 19,
+    "name": "Cảnh báo ngã rẽ trái",
+    "description": "Phía trước có ngã rẻ trái"
+  },
+  {
+    "_id": 20,
+    "name": "Cảnh báo ngã rẽ phải",
+    "description": "Phía trước có ngã rẻ phải"
+  },
+  {
+    "_id": 21,
+    "name": "Cảnh báo đường gấp khúc",
+    "description": "Phía trước có đường gấp khúc"
+  },
+  {
+    "_id": 22,
+    "name": "Cảnh báo đường gập ghềnh",
+    "description": "Đường gập ghềnh, cảnh báo nguy hiểm, đi chậm"
+  },
+  {
+    "_id": 23,
+    "name": "Cảnh báo đường trơn trượt",
+    "description": "Đường sắp tới hay có tình trạng trơn trượt"
+  },
+  {
+    "_id": 24,
+    "name": "Cảnh báo đường hẹp",
+    "description": "Đường sắp tới sẽ hẹp hơn"
+  },
+  {
+    "_id": 25,
+    "name": "Cảnh báo khu vực đang thi công",
+    "description": "Khu vực hiện tại đang thi công, cảnh báo đi chậm"
+  },
+  {
+    "_id": 26,
+    "name": "Cảnh báo đèn giao thông",
+    "description": "Có đèn giao thông phía trước"
+  },
+  {
+    "_id": 27,
+    "name": "Cảnh báo đường dành cho người đi bộ",
+    "description": "Phía trước có đường dành cho người đi bộ"
+  },
+  {
+    "_id": 28,
+    "name": "Cảnh báo đường hay có trẻ nhỏ",
+    "description": "Phía trước thường có trẻ nhỏ đi lại"
+  },
+  {
+    "_id": 29,
+    "name": "Cấm xe đạp",
+    "description": "Không được lưu thông bằng xe đạp tại nơi có biển báo này"
+  },
+  {
+    "_id": 30,
+    "name": "Cảnh báo đường có tuyết rơi",
+    "description": "Đường đang có tuyết rơi, dễ trơn trượt"
+  },
+  {
+    "_id": 31,
+    "name": "Cảnh báo đường hay có hươu đi qua",
+    "description": "Đường này hay có hươu đi qua lại"
+  },
+  {
+    "_id": 32,
+    "name": "Đường tự do",
+    "description": "Được phép tự do đi lại không bị hạn chế"
+  },
+  {
+    "_id": 33,
+    "name": "Hướng đi bắt buộc",
+    "description": "Bắt buộc đi theo hướng phải chỉ định"
+  },
+  {
+    "_id": 34,
+    "name": "Hướng đi bắt buộc",
+    "description": "Bắt buộc đi theo hướng trái chỉ định"
+  },
+  {
+    "_id": 35,
+    "name": "Hướng đi bắt buộc",
+    "description": "Bắt buộc đi thẳng chỉ định"
+  },
+  {
+    "_id": 36,
+    "name": "Hướng đi bắt buộc",
+    "description": "Bắt buộc đi theo hướng phải hoặc đi thẳng chỉ định"
+  },
+  {
+    "_id": 37,
+    "name": "Hướng đi bắt buộc",
+    "description": "Bắt buộc đi theo hướng trái hoặc đi thẳng chỉ định"
+  },
+  {
+    "_id": 38,
+    "name": "Hướng đi xuống hầm",
+    "description": "Đi xuống hầm theo thướng chỉ định"
+  },
+  {
+    "_id": 39,
+    "name": "Hướng đi xuống hầm",
+    "description": "Đi xuống hầm theo thướng chỉ định"
+  },
+  {
+    "_id": 40,
+    "name": "Khu vực vòng xuyến",
+    "description": "Lưu thông qua vòng xuyến theo chỉ định "
+  },
+  {
+    "_id": 41,
+    "name": "Hết hạn chế đối với xe ô tô",
+    "description": "Ra khỏi đường hạn chế xe ô tô"
+  },
+  {
+    "_id": 42,
+    "name": "Hết hạn chế đối với xse tải lớn",
+    "description": "Ra khỏi đường hạn chế xe tải lớn"
+  }
+]
